@@ -3,4 +3,4 @@
 
 ### Logo
 
-![logo](profile.svg)
+<img src="/profile.svg" width="400"></a></p>

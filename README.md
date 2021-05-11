@@ -1,5 +1,7 @@
 # write-mv-branding
 
+More will be added when they are ready.
+
 
 ### Logo
 
